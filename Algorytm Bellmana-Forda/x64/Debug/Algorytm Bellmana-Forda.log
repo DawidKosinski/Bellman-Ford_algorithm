@@ -1,0 +1,7 @@
+﻿  model.cpp
+C:\Users\dawid\source\repos\e84fb681-gr32-repo\projekt\Algorytm Bellmana-Forda\Algorytm Bellmana-Forda\model.cpp(27,47): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\dawid\source\repos\e84fb681-gr32-repo\projekt\Algorytm Bellmana-Forda\Algorytm Bellmana-Forda\model.cpp(28,47): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\dawid\source\repos\e84fb681-gr32-repo\projekt\Algorytm Bellmana-Forda\Algorytm Bellmana-Forda\model.cpp(36,45): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\dawid\source\repos\e84fb681-gr32-repo\projekt\Algorytm Bellmana-Forda\Algorytm Bellmana-Forda\model.cpp(37,47): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\dawid\source\repos\e84fb681-gr32-repo\projekt\Algorytm Bellmana-Forda\Algorytm Bellmana-Forda\model.cpp(10): warning C4715: "Find”: niewszystkie ścieżki kodu zwracają wartość
+  Algorytm Bellmana-Forda.vcxproj -> C:\Users\dawid\source\repos\e84fb681-gr32-repo\projekt\Algorytm Bellmana-Forda\x64\Debug\Algorytm Bellmana-Forda.exe

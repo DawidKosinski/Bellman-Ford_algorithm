@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c9bf875c-5710-423d-947b-1833c4506965": {
+      "ProjectGuid": "c9bf875c-5710-423d-947b-1833c4506965",
+      "DisplayName": "Algorytm Bellmana-Forda",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
